@@ -10,7 +10,7 @@ Here is how we distinguish the two:
 
 ### 1. JSON is the "Language" of the API
 
-The primary purpose of JSON is **data interchange**. When we say "API," we are talking about the *bridge* between two systems. JSON is the standardized "package" that travels across that bridge.
+The primary purpose of JSON is **data interchange**. When we say "API," we are talking about the *bridge* between two systems. JSON is the ==standardized "package"== that travels across that bridge.
 
 * **API (The Bridge):** Needs a format that every language (PHP, Python, Java, JavaScript) can understand.
 * **JSON (The Package):** Is that format. It doesn't care if your Backend is written in PHP or your Frontend is in React; it looks the same to everyone.
@@ -34,7 +34,7 @@ The Backend is the "Engine Room." It definitely uses JSON, but JSON isn't always
 
 ### The Engineer's Perspective
 
-If you are writing a backend script, you are **"Producing"** JSON. If you are a frontend developer, you are **"Consuming"** JSON. The **API** is the only place where both sides agree to use JSON to understand each other.
+==If you are writing a backend script, you are **"Producing"** JSON. If you are a frontend developer, you are **"Consuming"** JSON.== The **API** is the only place where both sides agree to use JSON to understand each other.
 
 **Think of it like this:** * **The Backend** is the chef in the kitchen (who might speak any language).
 

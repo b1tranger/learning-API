@@ -3,6 +3,7 @@
 
 ### # purpose
 - learning about APIs and creating them using various tech (programming languages)
+- learning JSON (for MongoDB (MERN) and other NoSQL solutions)
 
 ### # resources
 - [AI-overview-roadmap](https://github.com/b1tranger/learning-API/blob/main/API/AI-overview-roadmap.md)

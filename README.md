@@ -4,7 +4,8 @@
 ### # purpose
 - learning about APIs and creating them using various tech (programming languages)
 - learning JSON (for MongoDB (MERN) and other NoSQL solutions)
-- Rust API?
+- Rust API? REST API?
+- Social Bot: Discord, Facebook, Instagram, Whatsapp, Twitter, Reddit | Discord.py | [Related Repo](https://github.com/b1tranger/python_G_colab)
 
 ### # resources
 - [AI-overview-roadmap](https://github.com/b1tranger/learning-API/blob/main/API/AI-overview-roadmap.md)
